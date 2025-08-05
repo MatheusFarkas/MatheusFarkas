@@ -1,12 +1,9 @@
-Futuro Cientista de Dados | Iniciando Minha Jornada na EBAC
-Me chamo Matheus Farkas, tenho 21 anos, e sou um entusiasta que está iniciando sua
-jornada como estudante de Ciência de Dados na EBAC. Estou dando os primeiros passos com
-Python, SQL e conceitos de machine learning, fascinado pela ideia de desvendar padrões nos
-dados. Ainda sou novo na área, sem projetos práticos até agora, mas estou empolgado para
-aprender e crescer, especialmente aplicando isso à logística, que me inspira. Gosto de imaginar
-como os dados podem contar histórias, e estou animado para evoluir nessa carreira!
+### Futuro Cientista de Dados | Iniciando Minha Jornada na EBAC
 
 
+  Me chamo Matheus Farkas, tenho 21 anos, e sou um entusiasta que está iniciando sua jornada como estudante de Ciência de Dados na EBAC. Estou dando os primeiros passos com Python, SQL e conceitos de machine learning, fascinado pela ideia de desvendar padrões nos dados. Ainda sou novo na área, sem projetos práticos até agora, mas estou empolgado para aprender e crescer, especialmente aplicando isso à logística, que me inspira. Gosto de imaginar como os dados podem contar histórias, e estou animado para evoluir nessa carreira!
+
+  
 
 <div>
   <a href="https://github.com/MatheusFarkas">
